@@ -1,0 +1,23 @@
+{
+  "name": "react-form-state-controller",
+  "version": "1.0.1",
+  "description": "A React hook for managing form state with validation using Immer and Yup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeannediesi/react-form-state-controller"
+  },
+  "keywords": ["react", "form", "state", "hook", "immer", "yup"],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "dependencies": {
+    "immer": "^9.0.6",
+    "yup": "^0.32.9"
+  }
+}
